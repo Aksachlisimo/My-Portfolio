@@ -1,4 +1,4 @@
-Hi everybody , this is my first portfolio , feel free to check it and if you wanna reuse , then simply follow these steps :
+#Hi everybody , this is my first portfolio , feel free to check it and if you wanna reuse , then simply follow these steps :
 
 in your terminal type :
 git clone [repository link]
